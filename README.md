@@ -28,3 +28,4 @@ Time spent: `5 hours`
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
 ![Video Walkthrough](...)
+https://github.com/abhishekgupta08/nodejs-clis/blob/master/week1.gif
